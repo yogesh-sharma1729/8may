@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Page Title</title> 
+	<style> 
+
+
+.container { 
+
+   width:200px;
+   height:300px;
+    border: 10px double;
+  
+    background-color: #cceeff; 
+    background-image: url("https://www.tourmyindia.com/imagess/kedarnath.webp");
+	align-item:center; 
+	background-size:contain;  
+	background-origin:padding-box;
+	background-repeat:no-repeat; 
+	background-position-x:px; 
+	background-position-y:px; 
+	padding:20px;
+  background-origin: content-box;
+}
+
+	</style>
+</head>
+<body> 
+<p class="container"></p>
+
